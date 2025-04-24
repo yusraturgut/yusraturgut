@@ -11,7 +11,7 @@
 
 I’m a dedicated software engineer with a strong background in backend development, primarily using **.NET**, **C#**, and **SQL Server**. I'm passionate about clean code, scalable systems, and continuous improvement.
 
-- 🌱 Currently enhancing my skills in **microservices**, **cloud infrastructure**, and **DevOps tools**  
+- 🌱 Currently focused on **specializing in C#**, while also enhancing my skills in **microservices**, **cloud infrastructure**, and **DevOps tools**  
 - 🧩 Problem solver with a passion for well-architected systems  
 - 🤝 Open to collaboration on interesting projects or new opportunities  
 - 📫 Reach me at: **yusrayurgut102@gmail.com**
