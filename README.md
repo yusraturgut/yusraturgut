@@ -1,10 +1,6 @@
 <h1 align="center">👩‍💻 Yusra Turgut</h1>
 <h3 align="center">Software Engineer | .NET & Backend Development | Based in Turkey</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yusraturgut&label=Profile%20views&color=0e75b6&style=flat" alt="yusraturgut" />
-</p>
-
 ---
 
 ## 👋 About Me
